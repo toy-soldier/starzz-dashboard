@@ -1,0 +1,8 @@
+galaxy_id,galaxy_name,galaxy_type,distance_mly,redshift,mass_solar,diameter_ly,added_by,verified_by,remarks
+504,Triangulum,,3.0,0.0009,558,60000,28,72.0,Value missing for galaxy_type
+505,,Elliptical,55.0,0.015,329,120000,19,60.0,Value missing for galaxy_name
+506,Sombrero,Lenticular,-5.0,0.002,9999,49000,25,71.0,Invalid value for distance_mly
+507,Messier 87,Elliptical,53.5,-0.001,21,120000,21,63.0,Invalid value for redshift
+508,Whirlpool,Spiral,23.0,0.0016,,76000,17,59.0,Value missing for mass_solar
+509,Pinwheel,Spiral,21.0,0.0014,1234,,20,55.0,Value missing for diameter_ly
+511,Fakegalaxy,Irregular,99999.0,0.9999,445,9999999,99,,Value missing for verified_by; Invalid value for distance_mly

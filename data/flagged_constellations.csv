@@ -1,0 +1,6 @@
+constellation_id,constellation_name,galaxy_id,added_by,verified_by,remarks
+1004,Lyra,,28,61,Value missing for galaxy_id
+1005,,2,19,44,Value missing for constellation_name
+1007,Andromeda,1,17,,Value missing for verified_by
+1008,Pegasus,2,,63,Value missing for added_by
+1012,Canis Major,-1,25,65,Invalid value for galaxy_id

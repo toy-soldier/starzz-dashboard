@@ -12,7 +12,7 @@ galaxy_id,galaxy_name,galaxy_type,distance_mly,redshift,mass_solar,diameter_ly,a
 11,Galaxy-011,Elliptical,511,51,505,166910,92,119
 12,Galaxy-012,Spiral,642,64,3421,79677,1,97
 13,Galaxy-013,Spiral,173,17,316,108131,64,101
-14,Galaxy-014,Elliptical,1199,120,65,175788,16,115
+14,Galaxy-014,Elliptical,965,120,65,175788,16,115
 15,Galaxy-015,Elliptical,479,48,1022,153653,48,117
 16,Galaxy-016,Spiral,277,28,298,62566,23,106
 17,Galaxy-017,Irregular,171,17,757,51870,4,112
@@ -90,7 +90,7 @@ galaxy_id,galaxy_name,galaxy_type,distance_mly,redshift,mass_solar,diameter_ly,a
 89,Galaxy-089,Spiral,867,87,229,100817,36,100
 90,Galaxy-090,Elliptical,247,25,1666,217908,74,104
 91,Galaxy-091,Spiral,57,6,25,105415,89,97
-92,Galaxy-092,Spiral,1358,136,3424,117708,37,104
+92,Galaxy-092,Spiral,826,136,3424,117708,37,104
 93,Galaxy-093,Elliptical,60,6,1924,168629,36,118
 94,Galaxy-094,Elliptical,103,10,92,145032,40,111
 95,Galaxy-095,Spiral,238,24,242,69636,25,107
@@ -106,6 +106,17 @@ galaxy_id,galaxy_name,galaxy_type,distance_mly,redshift,mass_solar,diameter_ly,a
 105,Galaxy-105,Spiral,686,69,496,151499,35,120
 106,Galaxy-106,Elliptical,477,48,535,212637,68,116
 107,Galaxy-107,Elliptical,38,4,131,116511,2,97
-108,Galaxy-108,Elliptical,1007,101,91,159184,2,99
+108,Galaxy-108,Elliptical,799,101,91,159184,2,99
 109,Galaxy-109,Spiral,604,60,74,137400,53,108
 110,Galaxy-110,Spiral,569,57,493,70720,59,110
+501, Milky Way , Spiral,0,0,1500,105700,45,90
+502, milky way, Spiral,0,0,1500,105700,45,90
+503, Andromdea, Spiral,2.5,0.001,1322,220000,32,81
+504, Triangulum, ,3,0.0009,558,60000,28,72
+505, , Elliptical,55,0.015,329,120000,19,60
+506, Sombrero, Lenticular,-5,0.002,9999,49000,25,71
+507, Messier 87, Elliptical,53.5,-0.001,21,120000,21,63
+508, Whirlpool, Spiral,23,0.0016, ,76000,17,59
+509, Pinwheel, Spiral,21,0.0014,1234, ,20,55
+510, Sombrero, Lenticular,-5,0.002,9999,49000,25,71
+511, FakeGalaxy, Irregular,99999,0.9999,445,9999999,99,

@@ -1,0 +1,10 @@
+star_id,star_name,star_type,constellation_id,right_ascension,declination,apparent_magnitude,spectral_type,distance_mly,temperature_k,added_by,verified_by,remarks
+68,Star-0068,Main Sequence,128,91.978,80.395,9.39,K9,2511.0,4247,3,104,Invalid value for distance_mly
+10001,,Main Sequence,112,85.123,-91,5.42,G2,150.0,5778,45,102,Value missing for star_name
+10002,Star-Xyz,Giant,,120.556,22.331,4.9,K1,250.0,4900,67,110,Value missing for constellation_id
+10005,Betelgeuse,Giant,18,310.111,7.411,,M1,640.0,3500,22,101,Value missing for apparent_magnitude
+10006,Rigel,Supergiant,18,78.634,-8.123,-0.5,B8,999999.0,12100,41,97,Invalid value for apparent_magnitude; Invalid value for distance_mly
+10009,Star-Null,Main Sequence,30,,,5.6,F5,330.0,6400,12,91,Value missing for right_ascension; Value missing for declination
+10010,Polaris,Main Sequence,14,37.95,89.264,99.99,F7,433.0,6000,17,100,Invalid value for apparent_magnitude
+10011,Alpha Centauri,Main Sequence,11,219.902,-60.833,0.01,G2,-5.0,5778,14,92,Invalid value for distance_mly
+10012,Proxima Centauri,M Dwarf,852,217.429,-62.679,11.13,M5,4.2,3000,21,93,Invalid value for apparent_magnitude; Invalid value for constellation_id
