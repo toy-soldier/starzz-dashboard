@@ -39,6 +39,13 @@ fields `added_by` and `verified_by` to indicate the id of the users who discover
 
 ---
 
+### Data Quality Note
+
+To keep this project realistic, I injected intentional “mess” into the CSVs (typos, missing values, invalid ranges, orphan records).  
+This demonstrates my ability to detect and clean noisy datasets — a core part of analytics work — before moving into descriptive and inferential statistics.  
+
+---
+
 ## Tools
 
 - **Jupyter Notebook** (analysis + storytelling)  

@@ -1,8 +1,13 @@
 galaxy_id,galaxy_name,galaxy_type,distance_mly,redshift,mass_solar,diameter_ly,added_by,verified_by,remarks
-504,Triangulum,,3.0,0.0009,558,60000,28,72.0,Value missing for galaxy_type
-505,,Elliptical,55.0,0.015,329,120000,19,60.0,Value missing for galaxy_name
-506,Sombrero,Lenticular,-5.0,0.002,9999,49000,25,71.0,Invalid value for distance_mly
-507,Messier 87,Elliptical,53.5,-0.001,21,120000,21,63.0,Invalid value for redshift
-508,Whirlpool,Spiral,23.0,0.0016,,76000,17,59.0,Value missing for mass_solar
-509,Pinwheel,Spiral,21.0,0.0014,1234,,20,55.0,Value missing for diameter_ly
-511,Fakegalaxy,Irregular,99999.0,0.9999,445,9999999,99,,Value missing for verified_by; Invalid value for distance_mly
+1504,Triangulum,,3.0,0.0009,558,60000,28.0,72.0,Value missing for galaxy_type
+1505,,Elliptical,55.0,0.015,329,120000,19.0,60.0,Value missing for galaxy_name
+1506,Sombrero,Lenticular,-5.0,0.002,9999,49000,25.0,71.0,Invalid value for distance_mly
+1507,Messier 87,Elliptical,53.5,-0.001,21,120000,21.0,63.0,Invalid value for redshift
+1508,Whirlpool,Spiral,23.0,0.0016,,76000,17.0,59.0,Value missing for mass_solar
+1509,Pinwheel,Spiral,21.0,0.0014,1234,,20.0,55.0,Value missing for diameter_ly
+1511,Fakegalaxy,Irregular,99999.0,0.9999,445,9999999,99.0,,Value missing for verified_by; Invalid value for distance_mly
+401,Galaxy-401,Spiral,,,1.2E12,100000,95.0,118.0,Value missing for distance_mly; Value missing for redshift
+402,Galaxy-402,Elliptical,850.0,999,2.5E13,,,119.0,Value missing for diameter_ly; Value missing for added_by; Invalid value for redshift
+403,Galaxy-403,Spiral,-50.0,12,5.6E11,75000,81.0,,Value missing for verified_by; Invalid value for distance_mly
+404,Galaxy 404,Spiraal,600.0,Abc,8.9E10,90000,88.0,115.0,could not convert string to float: 'Abc'
+405,Galaxy-405,Irregular,1200.0,200,3.2E9,25000,,,Value missing for added_by; Value missing for verified_by; Invalid value for redshift; Invalid value for distance_mly

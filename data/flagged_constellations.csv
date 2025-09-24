@@ -4,3 +4,9 @@ constellation_id,constellation_name,galaxy_id,added_by,verified_by,remarks
 1007,Andromeda,1,17,,Value missing for verified_by
 1008,Pegasus,2,,63,Value missing for added_by
 1012,Canis Major,-1,25,65,Invalid value for galaxy_id
+401,Constellation401,,81,119,Value missing for galaxy_id
+402,Constellation-402,Xyz,70,104,invalid literal for int() with base 10: 'Xyz'
+403,Constellation-403,9999,82,108,Invalid value for galaxy_id
+404,Constellation 404,,,,Value missing for galaxy_id; Value missing for added_by; Value missing for verified_by
+405,Constellatoin-405,12A,88,115,invalid literal for int() with base 10: '12A'
+406,Constellation-406,23,81,,Value missing for verified_by

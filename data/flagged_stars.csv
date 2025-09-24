@@ -1,10 +1,15 @@
 star_id,star_name,star_type,constellation_id,right_ascension,declination,apparent_magnitude,spectral_type,distance_mly,temperature_k,added_by,verified_by,remarks
-68,Star-0068,Main Sequence,128,91.978,80.395,9.39,K9,2511.0,4247,3,104,Invalid value for distance_mly
-10001,,Main Sequence,112,85.123,-91,5.42,G2,150.0,5778,45,102,Value missing for star_name
-10002,Star-Xyz,Giant,,120.556,22.331,4.9,K1,250.0,4900,67,110,Value missing for constellation_id
-10005,Betelgeuse,Giant,18,310.111,7.411,,M1,640.0,3500,22,101,Value missing for apparent_magnitude
-10006,Rigel,Supergiant,18,78.634,-8.123,-0.5,B8,999999.0,12100,41,97,Invalid value for apparent_magnitude; Invalid value for distance_mly
-10009,Star-Null,Main Sequence,30,,,5.6,F5,330.0,6400,12,91,Value missing for right_ascension; Value missing for declination
-10010,Polaris,Main Sequence,14,37.95,89.264,99.99,F7,433.0,6000,17,100,Invalid value for apparent_magnitude
-10011,Alpha Centauri,Main Sequence,11,219.902,-60.833,0.01,G2,-5.0,5778,14,92,Invalid value for distance_mly
-10012,Proxima Centauri,M Dwarf,852,217.429,-62.679,11.13,M5,4.2,3000,21,93,Invalid value for apparent_magnitude; Invalid value for constellation_id
+10001,,Main Sequence,112,85.123,-91,5.42,G2,150.0,5778.0,45.0,102.0,Value missing for star_name
+10002,Star-Xyz,Giant,,120.556,22.331,4.9,K1,250.0,4900.0,67.0,110.0,Value missing for constellation_id
+10005,Betelgeuse,Giant,18,310.111,7.411,,M1,640.0,3500.0,22.0,101.0,Value missing for apparent_magnitude
+10006,Rigel,Supergiant,18,78.634,-8.123,-0.5,B8,999999.0,12100.0,41.0,97.0,Invalid value for apparent_magnitude; Invalid value for distance_mly
+10009,Star-Null,Main Sequence,30,,,5.6,F5,330.0,6400.0,12.0,91.0,Value missing for right_ascension; Value missing for declination
+10010,Polaris,Main Sequence,14,37.95,89.264,99.99,F7,433.0,6000.0,17.0,100.0,Invalid value for apparent_magnitude
+10011,Alpha Centauri,Main Sequence,11,219.902,-60.833,0.01,G2,-5.0,5778.0,14.0,92.0,Invalid value for distance_mly
+10012,Proxima Centauri,M Dwarf,852,217.429,-62.679,11.13,M5,4.2,3000.0,21.0,93.0,Invalid value for apparent_magnitude; Invalid value for constellation_id
+501,Star-0501,Main Sequence,112,,,,G9,,6775.0,76.0,97.0,Value missing for right_ascension; Value missing for declination; Value missing for apparent_magnitude; Value missing for distance_mly
+502,Star-0502,Gaint,113,400.5,-95,11,B4,667.0,19427.0,44.0,120.0,Invalid value for apparent_magnitude
+503,Star0503,Main Sequence,29,311.118,10.465,,K3,-388.0,4164.0,35.0,102.0,Value missing for apparent_magnitude; Invalid value for distance_mly
+504,Star-0504,Main Sequence,82,336.195,-33.092,5.1,X9,249.0,,,114.0,Value missing for temperature_k; Value missing for added_by
+505,Star-0505,Supergiant,82,,,3.5,F,1001.0,6200.0,89.0,114.0,Value missing for right_ascension; Value missing for declination; Invalid value for distance_mly
+506,Star-0506,M Dwarf,82,310.5,Abc,7.2,M,150.0,3500.0,90.0,,Value missing for verified_by
