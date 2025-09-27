@@ -14,7 +14,7 @@ This mock dataset simulates challenges common in real-world analysis, combining:
 - Stars (brightness, temperature, distance, type)  
 - Constellations (groupings of stars)  
 - Galaxies (parent systems of constellations)  
-- Users (junior contributors vs. senior verifiers)  
+- Users (juniors and seniors)  
 
 ![Datasets used chart showing 4 datasets combined for analysis](assets/schema.png)
 
