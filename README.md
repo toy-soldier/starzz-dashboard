@@ -72,7 +72,8 @@ starzz-dashboard/
 ├── notebooks/  
 │   ├── 01_raw_data_cleanup.ipynb  
 │   ├── 02_eda.ipynb  
-│   └── 03_descriptive_stats.ipynb  
+│   ├── 03_descriptive_stats.ipynb  
+│   └── 04_inferential_stats.ipynb  
 │  
 ├── assets/              # screenshots for README  
 └── README.md  
@@ -92,6 +93,7 @@ If you’d like to reproduce the analysis:
    - 01_raw_data_cleanup.ipynb → exports cleaned CSVs  
    - 02_eda.ipynb → for data discovery
    - 03_descriptive_stats.ipynb → for descriptive statistics
+   - 04_inferential_stats.ipynb → for inferential statistics
 
 Note: This README includes example screenshots, so you do not need to run the notebooks to review results.  
 
