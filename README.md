@@ -110,29 +110,6 @@ Each notebook has a representative chart for quick review:
 
 ---
 
-## How to Run  
-
-This project is built in Jupyter Notebooks with Python 3.x and standard libraries (pandas, numpy, matplotlib, seaborn).  
-
-If you’d like to reproduce the analysis:  
-
-1. Clone this repository.  
-2. Install dependencies:
-
-   uv sync  
-
-3. Run notebooks in order:  
-
-   - 01_raw_data_cleanup.ipynb → exports cleaned CSVs  
-   - 02_eda.ipynb → for data discovery
-   - 03_descriptive_stats.ipynb → for descriptive statistics
-   - 04_inferential_stats.ipynb → for inferential statistics
-   - 05_user_behavior.ipynb → for analyzing user behavior
-
-Note: This README includes example screenshots, and the notebooks still display their outputs, so you do not need to run the notebooks to review results.  
-
----
-
 ## Portfolio Positioning  
 
 This project is part of a trio that highlights my range as an analyst:  
