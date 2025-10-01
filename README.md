@@ -42,7 +42,6 @@ The project demonstrates my ability to:
 - Constellations per galaxy: some galaxies packed, others empty  
 - Junior vs. senior contributions: adders vs. verifiers, average load comparison  
 - Regression: distance vs. brightness correlation  
-- Hypothesis test: do senior-verified stars differ in brightness from junior-added?  
 
 ---
 
@@ -60,6 +59,14 @@ I do not attempt to fix every typo. The goal is to demonstrate workflow, not per
 
 ---
 
+## Inferential Statistics Note
+
+This project includes a small section on inferential statistics (ANOVA, Chi-square, correlations, regression). While these methods are more common in *data science*, I added them here to show that I understand when and how they can be applied.
+
+My primary focus is **data analysis** — framing business problems, exploring data, uncovering insights, and communicating them clearly. The inferential stssats notebook is not meant to suggest I’m pursuing a data science role; rather, it demonstrates that I can apply statistical thinking when it strengthens analysis.
+
+---
+
 ## Repository Structure  
 
 starzz-dashboard/  
@@ -73,7 +80,8 @@ starzz-dashboard/
 │   ├── 01_raw_data_cleanup.ipynb  
 │   ├── 02_eda.ipynb  
 │   ├── 03_descriptive_stats.ipynb  
-│   └── 04_inferential_stats.ipynb  
+│   ├── 04_inferential_stats.ipynb  
+│   └── 05_user_behavior.ipynb  
 │  
 ├── assets/              # screenshots for README  
 └── README.md  
@@ -94,6 +102,7 @@ If you’d like to reproduce the analysis:
    - 02_eda.ipynb → for data discovery
    - 03_descriptive_stats.ipynb → for descriptive statistics
    - 04_inferential_stats.ipynb → for inferential statistics
+   - 05_user_behavior.ipynb → for analyzing user behavior
 
 Note: This README includes example screenshots, so you do not need to run the notebooks to review results.  
 
